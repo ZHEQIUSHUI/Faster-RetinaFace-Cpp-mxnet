@@ -2,7 +2,7 @@
 this repositories retinaface is faster than my [the other repositories](https://github.com/ZHEQIUSHUI/Retinaface-Cpp-mxnet),and faster than Official demo!!
 
 # Special mention!!!
-[Retina-Cpp](https://github.com/Charrin/RetinaFace-Cpp):this programing is the best with retinaface code by cpp
+[RetinaFace-Cpp-caffe-version](https://github.com/Charrin/RetinaFace-Cpp):this programing is the best with retinaface code by cpp
 
 [dwjlw1314](https://github.com/dwjlw1314):the main code have change to mxnet was provide by this brother.thank!
 
