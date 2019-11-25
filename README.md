@@ -26,7 +26,7 @@ WiderFace validation mAP: Hard 82.5. (model size: 1.68Mb)
 
 
 
-## Reference
+## Depend
 
 opencv cpp lib
 
